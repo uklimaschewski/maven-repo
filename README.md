@@ -22,7 +22,7 @@ Then you can add dependencies to the individual artifacts from this repository i
             <dependency>
                 <groupId>com.udojava</groupId>
                 <artifactId>jmxwrapper</artifactId>
-                <version>1.0</version>
+                <version>1.1</version>
             </dependency>
         </dependencies>
  
