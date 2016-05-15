@@ -1,6 +1,9 @@
 A public Maven repository for my projects
 ================================
 
+**ATTENTION: All my projects are now also on [Maven Central](http://search.maven.org/#search|ga|1|g:"com.udojava").
+This repository here will not be updated anymore, but will stay as it is**
+
 To use an artifact from this repository in your Maven project, add the following repository location to your pom.xml:
 
     <repositories>
